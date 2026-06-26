@@ -1,0 +1,6 @@
+{
+  "name": "Engineering Services & AI Ad Dashboard",
+  "description": "An interactive, dual-view platform featuring a polished corporate website for specialized technical services and an AI-powered lead-qualification and marketing dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
